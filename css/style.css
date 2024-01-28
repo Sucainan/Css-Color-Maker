@@ -1,6 +1,7 @@
 h1 {
   text-align: center;
 }
+
   .marker {
     width: 200px;
     height: 25px;
@@ -19,7 +20,7 @@ h1 {
     background: linear-gradient( #55680D, #71F53E, #116C31);
     box-shadow: 5px 5px 5px green;
   }
-  
+
   
   .blue {
     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
